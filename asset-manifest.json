@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AWS/static/css/main.427c9594.chunk.css",
+    "main.js": "/AWS/static/js/main.a764129b.chunk.js",
+    "main.js.map": "/AWS/static/js/main.a764129b.chunk.js.map",
+    "runtime-main.js": "/AWS/static/js/runtime-main.8313fa3e.js",
+    "runtime-main.js.map": "/AWS/static/js/runtime-main.8313fa3e.js.map",
+    "static/js/2.6750b1e2.chunk.js": "/AWS/static/js/2.6750b1e2.chunk.js",
+    "static/js/2.6750b1e2.chunk.js.map": "/AWS/static/js/2.6750b1e2.chunk.js.map",
+    "index.html": "/AWS/index.html",
+    "static/css/main.427c9594.chunk.css.map": "/AWS/static/css/main.427c9594.chunk.css.map",
+    "static/js/2.6750b1e2.chunk.js.LICENSE.txt": "/AWS/static/js/2.6750b1e2.chunk.js.LICENSE.txt",
+    "static/media/Arrow.4412b620.svg": "/AWS/static/media/Arrow.4412b620.svg",
+    "static/media/Banner-Bootcamp-Logo.20aec994.svg": "/AWS/static/media/Banner-Bootcamp-Logo.20aec994.svg",
+    "static/media/Cloud1.4850e4ae.svg": "/AWS/static/media/Cloud1.4850e4ae.svg",
+    "static/media/Cloud2.48707732.svg": "/AWS/static/media/Cloud2.48707732.svg",
+    "static/media/Cloud3.512b28aa.svg": "/AWS/static/media/Cloud3.512b28aa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8313fa3e.js",
+    "static/js/2.6750b1e2.chunk.js",
+    "static/css/main.427c9594.chunk.css",
+    "static/js/main.a764129b.chunk.js"
+  ]
+}
