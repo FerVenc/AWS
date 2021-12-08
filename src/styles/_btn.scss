@@ -1,0 +1,32 @@
+.btn_box{
+    display: flex;
+    height: 50px;
+}
+
+.btn{
+/* Auto Layout */
+    padding: 10px 30px;
+    width: 234px;
+    height: 49px;
+    bottom: 0px;
+    background: $GoldColor;
+    color: $BlueColor;
+    margin: 20px 0px;
+    outline: none;
+    border: none;
+    font-family: $Font;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0px 5px 0px 0px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 100ms ease-in-out;
+
+    &:hover{
+        transform: translateX(5px);
+        border-radius: 50px;
+        box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.1);
+    }
+}
